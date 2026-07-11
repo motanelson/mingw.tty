@@ -1,6 +1,0 @@
-give me the .java file name to create ?,give me the java function name to create?,give me the java return type to create ?,give me the java number of inputs to create ?,give me the java function to create ?
-my.py|my|void|0| 0
-my.py|adds|int|3| a + b + c
-my.py|subs|int|3| a - b - c
-my.py|muls|int|3| a * b * c
-my.py|divs|int|1| a / 2
